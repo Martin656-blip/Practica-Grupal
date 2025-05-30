@@ -28,6 +28,9 @@ input {
   max-width: 190px;
 }
 
+p {
+  margin-left: 0.5rem
+}
 
 button {
   color: #000;
@@ -45,3 +48,12 @@ th {
   font-weight: bold;
   background: #68a2fa;
 }
+p {
+  margin-left: 0.5rem
+}
+
+h2 {
+  margin-top: 0.5rem;
+  font-size: 30px;
+  font-weight: bold;
+} 
